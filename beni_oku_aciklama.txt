@@ -1,0 +1,24 @@
+
+Tercih Edilen Program: xampp
+
+Projenin çalışması için:
+1- "xampp>htdocs" içerisine "egm" klasörünü atın.(*xampp-control.exe->sağ tık->dosya konumunu aç->htdocs adlı klasör.)
+2- "xampp" uygulamasında "Apache" ile "MySQL" modüllerini "Start" diyerek başlatın.
+3- "xampp"ta bulunan "MySQL" modülündeki "Admin" butonuna tıklayarak açılan sayfada "egm_html.sql" sql dosyasını "egm_html" adlı bir veritabanı oluşturarak içe aktarın.
+4- Tarayıcınızın adres çubuğuna ""localhost/egm" yazın ve enter'a tıklayın.
+
+
+
+
+T.C. POLİS GİRİŞİ için kullanıcı bilgileri:
+sicil no:1234567
+şifre:polis2
+
+sorgulama alanı için t.c. kimlik no:45678982391
+
+
+
+
+T.C. VATANDAŞ GİRİŞİ için kullanıcı bilgileri:
+t.c. kimlik no:45678982391
+seri no:123354213
