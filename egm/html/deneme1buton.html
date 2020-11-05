@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Emniyet Genel Müdürlüğü Bilgi Sistemi">
+    <meta name="keywords" content="Polis, Emniyet, Sabıka, Ehliyet durumu, Özel harekat, Terör, Asayiş, trafik, narkotik, interpol, suç, hırsızlık, kapkaç, dolandırıcılık, ruhsat, ceza, ihbar, suçlu, güvenlik, göçmen, kaçakçılık, ">
+    <meta name="authors" content="Ertuğrul Samet Bişkin-Mustafa Murat Tepe">
+
+    <title>T.C. İçişleri Bakanlığı Emniyet Genel Müdürlüğü</title>
+    <link rel="shortcut icon" href="../images/egm_favicon.ico" type="image/png">
+    <style>
+        #analogo{
+            width: 208px;
+            height: 156px;
+            background-image: url(../images/egm_logo_ana.png);
+            background-repeat: no-repeat;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 2%;
+		}
+        
+        h1{
+            text-align: center;
+            font-family: Verdana;
+            font-size: larger;
+            color: white;
+        }
+
+        #geri{
+            margin-top: 23%;
+            margin-left: 70%;
+        }
+        .geri {
+          display: inline-block;
+          border-radius: 4px;
+          background-color: rgb(1, 14, 61);
+          border: none;
+          color: #FFFFFF;
+          text-align: center;
+          font-size: 20px;
+          padding: 10px;
+          width: 130px;
+          transition: all 0.5s;
+          cursor: pointer;
+        }
+        .geri span {
+          cursor: pointer;
+          display: inline-block;
+          position: relative;
+          transition: 0.5s;
+        }
+        .geri span:after {
+          content: '\00ab';
+          position: absolute;
+          opacity: 0;
+          top: 0;
+          right: -20px;
+          transition: 0.5s;
+        }
+        .geri:hover span {
+          padding-right: 25px;
+        }
+        .geri:hover span:after {
+          opacity: 1;
+          right: 0;
+        } 
+
+    </style>
+</head>
+<body style="background-color:#0b1e60ff">
+
+    <div id="analogo"></div>
+    
+    <h1>Sabıka Kaydı</h1>
+
+    <div id="geri">
+        <button class="geri" style="vertical-align:middle" onclick="window.location.href='./polis_girisi_sorgu.html';"><span>Geri </span></button>
+
+</body>
+</html>
