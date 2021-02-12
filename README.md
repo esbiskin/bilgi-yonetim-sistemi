@@ -1,2 +1,2 @@
-# simple_management_info_system
+# Simple Management Information System
 Simple level information management system turkish
