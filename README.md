@@ -1,2 +1,3 @@
-# Simple Management Information System
-Simple Level Information Management System Turkish About The Police
+# Bilgi yönetim sistemi
+
+Polislik konusu üzerine bilgi yönetim sistemi
