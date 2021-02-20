@@ -1,3 +1,3 @@
 # Bilgi yönetim sistemi
 
-Polislik konusu üzerine bilgi yönetim sistemi
+Bilgi yönetim sistemlerinin; toplama, kaydetme, paylaşma, kullanma amaçlarını barındıran polislik konusu üzerine bilgi yönetim sistemi web uygulaması
